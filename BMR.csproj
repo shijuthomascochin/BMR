@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45BA3B75-2857-448E-9392-7701C59C58D8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BMR</RootNamespace>
+    <AssemblyName>BMR</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Atom.NET, Version=0.4.3.28008, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\inboxtest\inboxtest\bin\Debug\Atom.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="blindmailreader, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\blindmailreader\blindmailreader\bin\Debug\blindmailreader.dll</HintPath>
+    </Reference>
+    <Reference Include="Net, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\NETPOP3MIMEClient_src\NetPopMimeClient\bin\Debug\Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Speech">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="replypage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="replypage.Designer.cs">
+      <DependentUpon>replypage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="REPLY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="REPLY.Designer.cs">
+      <DependentUpon>REPLY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="otbox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="otbox1.Designer.cs">
+      <DependentUpon>otbox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OTBOX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OTBOX.Designer.cs">
+      <DependentUpon>OTBOX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HtmlRemoval.cs" />
+    <Compile Include="composef.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="composef.Designer.cs">
+      <DependentUpon>composef.cs</DependentUpon>
+    </Compile>
+    <Compile Include="composef1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="composef1.Designer.cs">
+      <DependentUpon>composef1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="password1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="password1.Designer.cs">
+      <DependentUpon>password1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="password.Designer.cs">
+      <DependentUpon>password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register.Designer.cs">
+      <DependentUpon>register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="inbox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="inbox1.Designer.cs">
+      <DependentUpon>inbox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="draft1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="draft1.Designer.cs">
+      <DependentUpon>draft1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trash1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trash1.Designer.cs">
+      <DependentUpon>trash1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="compose1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="compose1.Designer.cs">
+      <DependentUpon>compose1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="contact1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contact1.Designer.cs">
+      <DependentUpon>contact1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="homepage.Designer.cs">
+      <DependentUpon>homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login1.Designer.cs">
+      <DependentUpon>login1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welcome page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome page.Designer.cs">
+      <DependentUpon>welcome page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inbox.Designer.cs">
+      <DependentUpon>Inbox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trash.Designer.cs">
+      <DependentUpon>Trash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Draft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Draft.Designer.cs">
+      <DependentUpon>Draft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Compose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Compose.Designer.cs">
+      <DependentUpon>Compose.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contacts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contacts.Designer.cs">
+      <DependentUpon>Contacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="compose1.resx">
+      <DependentUpon>compose1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="composef.resx">
+      <DependentUpon>composef.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="contact1.resx">
+      <DependentUpon>contact1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="draft1.resx">
+      <DependentUpon>draft1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="composef1.resx">
+      <DependentUpon>composef1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="replypage.resx">
+      <DependentUpon>replypage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="REPLY.resx">
+      <DependentUpon>REPLY.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="otbox1.resx">
+      <DependentUpon>otbox1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OTBOX.resx">
+      <DependentUpon>OTBOX.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="password.resx">
+      <DependentUpon>password.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="password1.resx">
+      <DependentUpon>password1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register.resx">
+      <DependentUpon>register.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="inbox1.resx">
+      <DependentUpon>inbox1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="homepage.resx">
+      <DependentUpon>homepage.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login1.resx">
+      <DependentUpon>login1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trash1.resx">
+      <DependentUpon>trash1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome page.resx">
+      <DependentUpon>welcome page.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inbox.resx">
+      <DependentUpon>Inbox.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Trash.resx">
+      <DependentUpon>Trash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Draft.resx">
+      <DependentUpon>Draft.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Compose.resx">
+      <DependentUpon>Compose.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contacts.resx">
+      <DependentUpon>Contacts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Powerpoint-Backgrounds-4 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Powerpoint-Backgrounds-4 copy1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ps3_Home_01 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UHII copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\small-business-email-marketing - Copy copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\professional copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2502215 copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor-blue-background copy.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %287%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %287%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %287%292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %287%293.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %287%294.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %287%295.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %285%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %285%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %282%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %282%292.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %286%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %286%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %288%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %288%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %289%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %289%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HG copy - Copy %284%291.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
