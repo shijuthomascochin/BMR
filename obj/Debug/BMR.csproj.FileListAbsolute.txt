@@ -1,0 +1,152 @@
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\BMR.exe
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\BMR.pdb
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\ResolveAssemblyReference.cache
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.Cache
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.exe
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.pdb
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.Form2.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.registrationform.resources
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\blindmailreader.dll
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\blindmailreader.pdb
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.inboxform.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.trashform.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.draftform.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.composeform.resources
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\BMR.exe.config
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.contacts.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.Login.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.compose.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.Form1.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.homepage.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.loginpage.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.compose1.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.contact1.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.draft1.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.inbox1.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.trash1.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.register.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.composef1.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.password.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.password1.resources
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\Atom.NET.dll
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\Net.dll
+D:\BLIND MAIL READER\BMR\BMR\bin\Debug\Net.pdb
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.OUTBOX.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.otbox.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.REPLY.resources
+D:\BLIND MAIL READER\BMR\BMR\obj\Debug\BMR.replypage.resources
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\BMR.exe.config
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.exe
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.pdb
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\BMR.exe
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\BMR.pdb
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\Atom.NET.dll
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\blindmailreader.dll
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\Net.dll
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\blindmailreader.pdb
+D:\priya\myprojects\meenu\BMR\BMR\bin\Debug\Net.pdb
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\ResolveAssemblyReference.cache
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.compose1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.compose.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.contact1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.draft1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.composef1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.replypage.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.REPLY.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.otbox.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.OUTBOX.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.password.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.password1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.register.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.inbox1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.homepage.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.loginpage.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.trash1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.Form1.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.Login.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.Form2.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.registrationform.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.inboxform.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.trashform.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.draftform.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.composeform.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.contacts.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+D:\priya\myprojects\meenu\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.Cache
+E:\meenu\BMR\BMR\bin\Debug\BMR.exe.config
+E:\meenu\BMR\BMR\obj\Debug\BMR.exe
+E:\meenu\BMR\BMR\obj\Debug\BMR.pdb
+E:\meenu\BMR\BMR\bin\Debug\BMR.exe
+E:\meenu\BMR\BMR\bin\Debug\BMR.pdb
+E:\meenu\BMR\BMR\bin\Debug\Atom.NET.dll
+E:\meenu\BMR\BMR\bin\Debug\blindmailreader.dll
+E:\meenu\BMR\BMR\bin\Debug\Net.dll
+E:\meenu\BMR\BMR\bin\Debug\blindmailreader.pdb
+E:\meenu\BMR\BMR\bin\Debug\Net.pdb
+E:\meenu\BMR\BMR\obj\Debug\ResolveAssemblyReference.cache
+E:\meenu\BMR\BMR\obj\Debug\BMR.compose1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.compose.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.contact1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.draft1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.composef1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.replypage.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.REPLY.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.otbox.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.OUTBOX.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.password.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.password1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.register.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.inbox1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.homepage.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.loginpage.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.trash1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.Form1.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.Login.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.Form2.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.registrationform.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.inboxform.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.trashform.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.draftform.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.composeform.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.contacts.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+E:\meenu\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.Cache
+E:\bmrpjt\BMR\BMR\bin\Debug\BMR.exe.config
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.exe
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.pdb
+E:\bmrpjt\BMR\BMR\bin\Debug\BMR.exe
+E:\bmrpjt\BMR\BMR\bin\Debug\BMR.pdb
+E:\bmrpjt\BMR\BMR\bin\Debug\Atom.NET.dll
+E:\bmrpjt\BMR\BMR\bin\Debug\blindmailreader.dll
+E:\bmrpjt\BMR\BMR\bin\Debug\Net.dll
+E:\bmrpjt\BMR\BMR\bin\Debug\blindmailreader.pdb
+E:\bmrpjt\BMR\BMR\bin\Debug\Net.pdb
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.csprojResolveAssemblyReference.cache
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.compose1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.compose.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.contact1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.draft1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.composef1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.replypage.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.REPLY.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.otbox.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.OUTBOX.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.password.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.password1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.register.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.inbox1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.homepage.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.loginpage.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.trash1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.Form1.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.Login.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.Form2.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.registrationform.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.inboxform.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.trashform.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.draftform.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.composeform.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.contacts.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+E:\bmrpjt\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.Cache
